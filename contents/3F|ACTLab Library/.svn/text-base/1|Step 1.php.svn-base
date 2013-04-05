@@ -1,0 +1,25 @@
+\h1_pb{Step 1}
+		
+\code{
+<html>
+	// Remove leading and trailing spaces.
+	
+	$givenArray = $this->replace_spaces($givenArray);
+	
+	// Remove empty lines.
+	
+	$givenArray = $this->replace_emptyLines($givenArray);
+	
+	// Replace HTML special tags.
+	
+	$givenArray = $this->replace_HTMLSpecialTags($givenArray);
+	
+	// Replace special characters.
+	
+	$givenArray = $this->replace_specialCharacters($givenArray);
+	
+	// Replace element tags.
+	
+	$givenArray = $this->replace_arrayTags($givenArray);
+</html>
+}

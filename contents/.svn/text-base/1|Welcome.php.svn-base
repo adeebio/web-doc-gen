@@ -1,0 +1,22 @@
+\h1_pb{Hello Developer!}
+
+\n|
+
+Welcome to the JalaWare Platform's Developer Documentation.
+Here you will find guidance on getting your jalaware up running.
+
+\n|\n|
+
+\boxGreen{
+	
+	\h2_pb{Browser Support}
+	
+	\n|
+	
+	This documentation is designed to work on \b{WebKit browsers} such as Google Chrome and Apple Safari.
+	
+	\n|\n|
+	
+	It may work on other browsers, but is unsupported.
+	
+}

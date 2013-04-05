@@ -1,0 +1,1 @@
+<span class="<?php tag($tags,"class","font_h1") ?>"><?php tag($tags,"body","") ?></span>

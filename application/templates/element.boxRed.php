@@ -1,0 +1,1 @@
+<div class="<?php tag($tags,"class","boxRed") ?>"><?php tag($tags,"body","") ?></div>
